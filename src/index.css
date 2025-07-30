@@ -20,3 +20,31 @@ a {
 li {
   list-style: none;
 }
+
+.container {
+  padding: 0 10%;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  color: #212121;
+  padding: 14px 25px;
+  font-size: 16px;
+  border: 0;
+  border-radius: 30px;
+  outline: none;
+  cursor: pointer;
+}
+
+.btn img {
+  width: 20px;
+  margin-left: 10px;
+}
+
+.dark-btn {
+  background: #213ea0;
+  color: #fff;
+}
