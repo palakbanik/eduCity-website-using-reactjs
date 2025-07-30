@@ -39,3 +39,8 @@ nav ul li {
   outline: none;
   cursor: pointer;
 }
+
+.btn img {
+  width: 20px;
+  margin-left: 10px;
+}
